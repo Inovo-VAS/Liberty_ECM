@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\projects\\inovo\\WaldoCode\\Waldo Code\\0.Development\\Liberty ECM\\Files\\CIM Engine v2.0\\InovoCIM\\InovoCIM.csproj": {}
+  },
+  "projects": {
+    "C:\\projects\\inovo\\WaldoCode\\Waldo Code\\0.Development\\Liberty ECM\\Files\\CIM Engine v2.0\\InovoCIM\\InovoCIM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\inovo\\WaldoCode\\Waldo Code\\0.Development\\Liberty ECM\\Files\\CIM Engine v2.0\\InovoCIM\\InovoCIM.csproj",
+        "projectName": "InovoCIM",
+        "projectPath": "C:\\projects\\inovo\\WaldoCode\\Waldo Code\\0.Development\\Liberty ECM\\Files\\CIM Engine v2.0\\InovoCIM\\InovoCIM.csproj",
+        "packagesPath": "C:\\Users\\evert\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\inovo\\WaldoCode\\Waldo Code\\0.Development\\Liberty ECM\\Files\\CIM Engine v2.0\\InovoCIM\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\evert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

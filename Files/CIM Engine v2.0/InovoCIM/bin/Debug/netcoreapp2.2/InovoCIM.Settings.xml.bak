@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<dbInovoCIM>Data Source=localhost\SQLEXPRESS;Initial Catalog=LibertyCim;Integrated Security=SSPI;MultipleActiveResultSets=true;</dbInovoCIM>
+	<dbPresence>Data Source=localhost\SQLEXPRESS;Initial Catalog=SQLPR1;Integrated Security=SSPI;MultipleActiveResultSets=true;</dbPresence>
+</Database>
+
+The redirect URI in the request, https://trialapp3.nxone.com/SharedResources/SharedEditors/oauthsuccess.html, does not match the ones authorized for the OAuth client. To update the authorized redirect URIs, visit: https://console.developers.google.com/apis/credentials/oauthclient/187322063944-b6teuhabiiom4r1bd7hkm5cavoe3eq14.apps.googleusercontent.com?project=187322063944

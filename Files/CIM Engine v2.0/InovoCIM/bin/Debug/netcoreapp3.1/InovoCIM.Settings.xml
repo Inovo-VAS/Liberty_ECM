@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<dbInovoCIM>Data Source=localhost\SQLEXPRESS;Initial Catalog=LibertyCim;Integrated Security=SSPI;MultipleActiveResultSets=true;</dbInovoCIM>
+	<dbPresence>Data Source=localhost\SQLEXPRESS;Initial Catalog=SQLPR1;Integrated Security=SSPI;MultipleActiveResultSets=true;</dbPresence>
+</Database>

@@ -1,0 +1,17 @@
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\bin\Release\netcoreapp2.2\Content\logo.png
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\bin\Release\netcoreapp2.2\EmailTemplates\Error.html
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\bin\Release\netcoreapp2.2\EmailTemplates\ReportFile.html
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\bin\Release\netcoreapp2.2\EmailTemplates\ReportHeaderFailed.html
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\bin\Release\netcoreapp2.2\InovoCIM.deps.json
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\bin\Release\netcoreapp2.2\InovoCIM.runtimeconfig.json
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\bin\Release\netcoreapp2.2\InovoCIM.runtimeconfig.dev.json
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\bin\Release\netcoreapp2.2\InovoCIM.dll
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\bin\Release\netcoreapp2.2\InovoCIM.pdb
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\obj\Release\netcoreapp2.2\InovoCIM.csproj.AssemblyReference.cache
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\obj\Release\netcoreapp2.2\InovoCIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\obj\Release\netcoreapp2.2\InovoCIM.AssemblyInfoInputs.cache
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\obj\Release\netcoreapp2.2\InovoCIM.AssemblyInfo.cs
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\obj\Release\netcoreapp2.2\InovoCIM.csproj.CoreCompileInputs.cache
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\obj\Release\netcoreapp2.2\InovoCIM.dll
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\obj\Release\netcoreapp2.2\InovoCIM.pdb
+C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\obj\Release\netcoreapp2.2\InovoCIM.genruntimeconfig.cache

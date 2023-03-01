@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <dbSchema>dbo</dbSchema>
+	<dbInovoCIM>Data Source=PSQLPresnce1a\INST02;Initial Catalog=CIM;User Id=cim_user;Password=Gr!@#$tj!@#$2019;MultipleActiveResultSets=true;</dbInovoCIM>
+	<dbPresence>Data Source=10.122.156.194\PRESENCE;Initial Catalog=SQLPR1;User Id=PTOOLS;Password=PTOOLS;MultipleActiveResultSets=true;</dbPresence>
+</Database>

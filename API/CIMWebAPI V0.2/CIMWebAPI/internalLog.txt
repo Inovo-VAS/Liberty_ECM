@@ -1,0 +1,593 @@
+2020-07-07 17:48:24.6714 Info Message Template Auto Format enabled
+2020-07-07 17:48:24.6997 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-07 17:48:24.8273 Info Adding target FileTarget(Name=alldata)
+2020-07-07 17:48:24.8873 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-07 17:48:25.0059 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-08 07:18:23.4883 Info Message Template Auto Format enabled
+2020-07-08 07:18:23.5883 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-08 07:18:23.7782 Info Adding target FileTarget(Name=alldata)
+2020-07-08 07:18:23.8368 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-08 07:18:23.9717 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-08 07:22:50.4012 Info Configuration file change detected! Reloading in 1000ms...
+2020-07-08 07:22:50.4176 Info Configuration file change detected! Reloading in 1000ms...
+2020-07-08 07:22:51.4205 Info Reloading configuration...
+2020-07-08 07:22:51.4205 Info Configuring from an XML element in C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config...
+2020-07-08 07:22:51.4205 Info Message Template Auto Format enabled
+2020-07-08 07:22:51.4205 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-08 07:22:51.4205 Info Adding target FileTarget(Name=alldata)
+2020-07-08 07:22:51.4205 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-08 07:22:51.4359 Info Closing old configuration.
+2020-07-08 07:22:51.4532 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-16 17:49:06.6331 Info Message Template Auto Format enabled
+2020-07-16 17:49:06.7537 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-16 17:49:07.2152 Info Adding target FileTarget(Name=alldata)
+2020-07-16 17:49:07.2951 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-16 17:49:07.5119 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-16 17:52:10.2208 Info Message Template Auto Format enabled
+2020-07-16 17:52:10.2483 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-16 17:52:10.3784 Info Adding target FileTarget(Name=alldata)
+2020-07-16 17:52:10.4040 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-16 17:52:10.4968 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-16 18:01:00.4137 Info Message Template Auto Format enabled
+2020-07-16 18:01:00.4484 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-16 18:01:00.6093 Info Adding target FileTarget(Name=alldata)
+2020-07-16 18:01:00.6301 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-16 18:01:00.7106 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-16 18:54:23.5433 Info Message Template Auto Format enabled
+2020-07-16 18:54:23.9419 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-16 18:54:24.4339 Info Adding target FileTarget(Name=alldata)
+2020-07-16 18:54:24.5445 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-16 18:54:24.8518 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-16 19:49:38.6540 Info Message Template Auto Format enabled
+2020-07-16 19:49:38.7716 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-16 19:49:38.9484 Info Adding target FileTarget(Name=alldata)
+2020-07-16 19:49:38.9681 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-16 19:49:39.0533 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-16 19:53:04.7218 Info Message Template Auto Format enabled
+2020-07-16 19:53:04.7768 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-16 19:53:04.9220 Info Adding target FileTarget(Name=alldata)
+2020-07-16 19:53:04.9449 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-16 19:53:05.0419 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-16 19:57:08.8222 Info Message Template Auto Format enabled
+2020-07-16 19:57:08.8562 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-16 19:57:08.9900 Info Adding target FileTarget(Name=alldata)
+2020-07-16 19:57:09.0075 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-16 19:57:09.0943 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-16 19:59:20.1082 Info Message Template Auto Format enabled
+2020-07-16 19:59:20.2061 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-16 19:59:20.3722 Info Adding target FileTarget(Name=alldata)
+2020-07-16 19:59:20.4038 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-16 19:59:20.5394 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-16 20:22:53.3566 Info Message Template Auto Format enabled
+2020-07-16 20:22:53.4124 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-16 20:22:53.9569 Info Adding target FileTarget(Name=alldata)
+2020-07-16 20:22:54.3472 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-16 20:22:54.4761 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-21 20:44:35.1406 Info Message Template Auto Format enabled
+2020-07-21 20:44:35.3257 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-21 20:44:35.6393 Info Adding target FileTarget(Name=alldata)
+2020-07-21 20:44:35.7641 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-21 20:44:35.9527 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-22 14:16:49.2564 Info Message Template Auto Format enabled
+2020-07-22 14:16:49.4164 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-22 14:16:49.7548 Info Adding target FileTarget(Name=alldata)
+2020-07-22 14:16:49.7914 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-22 14:16:50.0237 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-28 14:53:09.7507 Info Message Template Auto Format enabled
+2020-07-28 14:53:09.9304 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-28 14:53:10.2207 Info Adding target FileTarget(Name=alldata)
+2020-07-28 14:53:10.3209 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-28 14:53:10.5151 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-07-31 12:31:22.0197 Info Message Template Auto Format enabled
+2020-07-31 12:31:22.2792 Info Loading assembly: NLog.Web.AspNetCore
+2020-07-31 12:31:22.5542 Info Adding target FileTarget(Name=alldata)
+2020-07-31 12:31:22.6370 Info Adding target FileTarget(Name=otherFile-web)
+2020-07-31 12:31:22.9757 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-08-04 10:08:13.3507 Info Message Template Auto Format enabled
+2020-08-04 10:08:13.4601 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 10:08:13.6519 Info Adding target FileTarget(Name=alldata)
+2020-08-04 10:08:13.7555 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 10:08:13.9325 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-08-04 10:17:09.1855 Info Message Template Auto Format enabled
+2020-08-04 10:17:09.2245 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 10:17:09.5320 Info Adding target FileTarget(Name=alldata)
+2020-08-04 10:17:09.5816 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 10:17:09.6857 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-08-04 10:22:24.4257 Info Message Template Auto Format enabled
+2020-08-04 10:22:24.5509 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 10:22:24.6895 Info Adding target FileTarget(Name=alldata)
+2020-08-04 10:22:24.7025 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 10:22:24.7877 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-08-04 10:25:21.8502 Info Message Template Auto Format enabled
+2020-08-04 10:25:21.8785 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 10:25:22.0784 Info Adding target FileTarget(Name=alldata)
+2020-08-04 10:25:22.0971 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 10:25:22.1741 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-08-04 10:28:55.8555 Info Message Template Auto Format enabled
+2020-08-04 10:28:55.9119 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 10:28:56.0588 Info Adding target FileTarget(Name=alldata)
+2020-08-04 10:28:56.0789 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 10:28:56.1827 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-08-04 10:31:26.4146 Info Message Template Auto Format enabled
+2020-08-04 10:31:26.4433 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 10:31:26.7000 Info Adding target FileTarget(Name=alldata)
+2020-08-04 10:31:26.7528 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 10:31:26.8554 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-08-04 10:34:42.3870 Info Message Template Auto Format enabled
+2020-08-04 10:34:42.4176 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 10:34:42.5664 Info Adding target FileTarget(Name=alldata)
+2020-08-04 10:34:42.5901 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 10:34:42.7240 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-08-04 11:23:48.1844 Info Message Template Auto Format enabled
+2020-08-04 11:23:48.2866 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 11:23:48.5076 Info Adding target FileTarget(Name=alldata)
+2020-08-04 11:23:48.5801 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 11:23:48.8471 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-08-04 11:31:30.6922 Info Message Template Auto Format enabled
+2020-08-04 11:31:30.7202 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 11:31:30.8273 Info Adding target FileTarget(Name=alldata)
+2020-08-04 11:31:30.8738 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 11:31:31.0004 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-08-04 11:33:19.6988 Info Message Template Auto Format enabled
+2020-08-04 11:33:19.7731 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 11:33:19.9131 Info Adding target FileTarget(Name=alldata)
+2020-08-04 11:33:19.9413 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 11:33:20.0207 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-08-04 12:50:26.3800 Info Message Template Auto Format enabled
+2020-08-04 12:50:26.4067 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 12:50:26.4917 Info Adding target FileTarget(Name=alldata)
+2020-08-04 12:50:26.5069 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 12:50:26.5763 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-08-04 12:53:17.2118 Info Message Template Auto Format enabled
+2020-08-04 12:53:17.2339 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 12:53:17.3269 Info Adding target FileTarget(Name=alldata)
+2020-08-04 12:53:17.3415 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 12:53:17.4054 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-08-04 13:00:39.4098 Info Message Template Auto Format enabled
+2020-08-04 13:00:39.4538 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 13:00:39.7805 Info Adding target FileTarget(Name=alldata)
+2020-08-04 13:00:40.0257 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 13:00:40.5277 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-08-04 13:03:16.8997 Info Message Template Auto Format enabled
+2020-08-04 13:03:17.3054 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 13:03:17.5763 Info Adding target FileTarget(Name=alldata)
+2020-08-04 13:03:17.7281 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 13:03:17.8367 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-08-04 13:11:27.8672 Info Message Template Auto Format enabled
+2020-08-04 13:11:27.9036 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 13:11:28.0300 Info Adding target FileTarget(Name=alldata)
+2020-08-04 13:11:28.0508 Info Adding target FileTarget(Name=otherFile-web)
+2020-08-04 13:11:28.1508 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-09-04 13:17:05.0767 Info Message Template Auto Format enabled
+2020-09-04 13:17:05.1924 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-04 13:17:05.3559 Info Adding target FileTarget(Name=alldata)
+2020-09-04 13:17:05.4152 Info Adding target FileTarget(Name=otherFile-web)
+2020-09-04 13:17:05.5610 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-09-04 13:20:09.3440 Info Message Template Auto Format enabled
+2020-09-04 13:20:09.4074 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-04 13:20:09.5824 Info Adding target FileTarget(Name=alldata)
+2020-09-04 13:20:09.6164 Info Adding target FileTarget(Name=otherFile-web)
+2020-09-04 13:20:09.8534 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-09-04 13:21:01.1047 Info Message Template Auto Format enabled
+2020-09-04 13:21:01.1269 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-04 13:21:01.2200 Info Adding target FileTarget(Name=alldata)
+2020-09-04 13:21:01.2333 Info Adding target FileTarget(Name=otherFile-web)
+2020-09-04 13:21:01.2953 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-09-04 13:23:29.6468 Info Message Template Auto Format enabled
+2020-09-04 13:23:29.6736 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-04 13:23:29.8429 Info Adding target FileTarget(Name=alldata)
+2020-09-04 13:23:29.8711 Info Adding target FileTarget(Name=otherFile-web)
+2020-09-04 13:23:29.9654 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2020-10-18 21:42:10.5377 Info Message Template Auto Format enabled
+2020-10-18 21:42:10.7269 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-18 21:42:10.9629 Info Adding target FileTarget(Name=alldata)
+2020-10-18 21:42:11.0024 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-18 21:42:11.0822 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-18 21:44:13.2335 Info Message Template Auto Format enabled
+2020-10-18 21:44:13.4167 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-18 21:44:13.4966 Info Adding target FileTarget(Name=alldata)
+2020-10-18 21:44:13.6622 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-18 21:44:13.9734 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-19 22:46:42.9329 Info Message Template Auto Format enabled
+2020-10-19 22:46:43.4964 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-19 22:46:45.2157 Info Adding target FileTarget(Name=alldata)
+2020-10-19 22:46:45.3535 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-19 22:46:45.6652 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-19 22:49:39.9658 Info Message Template Auto Format enabled
+2020-10-19 22:49:39.9910 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-19 22:49:40.0693 Info Adding target FileTarget(Name=alldata)
+2020-10-19 22:49:40.0879 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-19 22:49:40.1424 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-19 22:53:54.0105 Info Message Template Auto Format enabled
+2020-10-19 22:53:54.0779 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-19 22:53:54.2292 Info Adding target FileTarget(Name=alldata)
+2020-10-19 22:53:54.2761 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-19 22:53:54.3758 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-19 22:54:53.9608 Info Message Template Auto Format enabled
+2020-10-19 22:54:53.9990 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-19 22:54:54.0759 Info Adding target FileTarget(Name=alldata)
+2020-10-19 22:54:54.0900 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-19 22:54:54.1435 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-19 22:57:08.3463 Info Message Template Auto Format enabled
+2020-10-19 22:57:08.4838 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-19 22:57:08.5852 Info Adding target FileTarget(Name=alldata)
+2020-10-19 22:57:08.6418 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-19 22:57:08.7719 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-19 22:59:26.3696 Info Message Template Auto Format enabled
+2020-10-19 22:59:26.4406 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-19 22:59:26.5504 Info Adding target FileTarget(Name=alldata)
+2020-10-19 22:59:26.5631 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-19 22:59:26.6223 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-19 23:01:47.7912 Info Message Template Auto Format enabled
+2020-10-19 23:01:47.8129 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-19 23:01:47.8911 Info Adding target FileTarget(Name=alldata)
+2020-10-19 23:01:47.9053 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-19 23:01:47.9727 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-19 23:03:06.1168 Info Message Template Auto Format enabled
+2020-10-19 23:03:06.1673 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-19 23:03:06.2722 Info Adding target FileTarget(Name=alldata)
+2020-10-19 23:03:06.2924 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-19 23:03:06.3557 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-19 23:04:14.2059 Info Message Template Auto Format enabled
+2020-10-19 23:04:14.2666 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-19 23:04:14.3928 Info Adding target FileTarget(Name=alldata)
+2020-10-19 23:04:14.4100 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-19 23:04:14.4761 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-19 23:05:16.4296 Info Message Template Auto Format enabled
+2020-10-19 23:05:16.5831 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-19 23:05:16.7354 Info Adding target FileTarget(Name=alldata)
+2020-10-19 23:05:16.7878 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-19 23:05:16.8889 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-19 23:09:32.4882 Info Message Template Auto Format enabled
+2020-10-19 23:09:32.5614 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-19 23:09:32.7429 Info Adding target FileTarget(Name=alldata)
+2020-10-19 23:09:32.8161 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-19 23:09:32.9021 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-20 20:42:22.4165 Info Message Template Auto Format enabled
+2020-10-20 20:42:22.5704 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-20 20:42:22.6842 Info Adding target FileTarget(Name=alldata)
+2020-10-20 20:42:22.7238 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-20 20:42:22.8615 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-20 20:45:24.2305 Info Message Template Auto Format enabled
+2020-10-20 20:45:24.2898 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-20 20:45:24.3631 Info Adding target FileTarget(Name=alldata)
+2020-10-20 20:45:24.3799 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-20 20:45:24.4199 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-20 20:48:12.7473 Info Message Template Auto Format enabled
+2020-10-20 20:48:12.7674 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-20 20:48:12.8283 Info Adding target FileTarget(Name=alldata)
+2020-10-20 20:48:12.8393 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-20 20:48:12.8981 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-20 20:50:31.4340 Info Message Template Auto Format enabled
+2020-10-20 20:50:31.4974 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-20 20:50:31.5904 Info Adding target FileTarget(Name=alldata)
+2020-10-20 20:50:31.6096 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-20 20:50:31.6705 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-20 20:51:44.7891 Info Message Template Auto Format enabled
+2020-10-20 20:51:44.8685 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-20 20:51:44.9871 Info Adding target FileTarget(Name=alldata)
+2020-10-20 20:51:45.0079 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-20 20:51:45.0681 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-20 21:27:59.9240 Info Message Template Auto Format enabled
+2020-10-20 21:28:00.1309 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-20 21:28:00.1975 Info Adding target FileTarget(Name=alldata)
+2020-10-20 21:28:00.2230 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-20 21:28:00.2958 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-20 21:30:35.4185 Info Message Template Auto Format enabled
+2020-10-20 21:30:35.4402 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-20 21:30:35.5634 Info Adding target FileTarget(Name=alldata)
+2020-10-20 21:30:35.5962 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-20 21:30:35.7535 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-20 21:34:41.5466 Info Message Template Auto Format enabled
+2020-10-20 21:34:41.6327 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-20 21:34:41.7513 Info Adding target FileTarget(Name=alldata)
+2020-10-20 21:34:41.7653 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-20 21:34:41.8464 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-21 21:17:30.2738 Info Message Template Auto Format enabled
+2020-10-21 21:17:30.4387 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-21 21:17:30.8354 Info Adding target FileTarget(Name=alldata)
+2020-10-21 21:17:30.9315 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-21 21:17:31.1046 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-21 21:22:44.9324 Info Message Template Auto Format enabled
+2020-10-21 21:22:45.0055 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-21 21:22:45.0955 Info Adding target FileTarget(Name=alldata)
+2020-10-21 21:22:45.1156 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-21 21:22:45.1750 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-21 21:25:34.0327 Info Message Template Auto Format enabled
+2020-10-21 21:25:34.0550 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-21 21:25:34.1400 Info Adding target FileTarget(Name=alldata)
+2020-10-21 21:25:34.1400 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-21 21:25:34.1984 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-21 21:26:39.7193 Info Message Template Auto Format enabled
+2020-10-21 21:26:39.7545 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-21 21:26:39.8465 Info Adding target FileTarget(Name=alldata)
+2020-10-21 21:26:39.8591 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-21 21:26:39.9075 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-10-21 21:27:31.5008 Info Message Template Auto Format enabled
+2020-10-21 21:27:31.5653 Info Loading assembly: NLog.Web.AspNetCore
+2020-10-21 21:27:31.6495 Info Adding target FileTarget(Name=alldata)
+2020-10-21 21:27:31.6677 Info Adding target FileTarget(Name=otherFile-web)
+2020-10-21 21:27:31.7244 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:07:01.3339 Info Message Template Auto Format enabled
+2020-11-18 22:07:01.4576 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:07:01.6111 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:07:01.7184 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:07:01.8488 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:07:55.2447 Info Message Template Auto Format enabled
+2020-11-18 22:07:55.2640 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:07:55.3413 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:07:55.3545 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:07:55.4102 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:09:28.4798 Info Message Template Auto Format enabled
+2020-11-18 22:09:28.5023 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:09:28.6321 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:09:28.6553 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:09:28.7094 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:10:50.8128 Info Message Template Auto Format enabled
+2020-11-18 22:10:50.8401 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:10:50.9265 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:10:50.9440 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:10:51.0024 Info AppDomain Shutting down. Logger closing...
+2020-11-18 22:10:51.0050 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:10:51.1100 Info Logger has been shut down.
+2020-11-18 22:10:55.1907 Info Message Template Auto Format enabled
+2020-11-18 22:10:55.2097 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:10:55.2742 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:10:55.2909 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:10:55.3410 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:11:35.8572 Info Message Template Auto Format enabled
+2020-11-18 22:11:35.8889 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:11:35.9688 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:11:35.9824 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:11:36.0507 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:12:05.3203 Info Message Template Auto Format enabled
+2020-11-18 22:12:05.3424 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:12:05.4227 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:12:05.4455 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:12:05.4998 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:14:06.0532 Info Message Template Auto Format enabled
+2020-11-18 22:14:06.1077 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:14:06.2040 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:14:06.2254 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:14:06.3076 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:40:23.1519 Info Message Template Auto Format enabled
+2020-11-18 22:40:23.2000 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:40:23.2772 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:40:23.3014 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:40:23.3658 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:42:12.2005 Info Message Template Auto Format enabled
+2020-11-18 22:42:12.2302 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:42:12.2980 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:42:12.3124 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:42:12.3609 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:44:26.3060 Info Message Template Auto Format enabled
+2020-11-18 22:44:26.3461 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:44:26.4332 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:44:26.4518 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:44:26.5149 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:47:38.3744 Info Message Template Auto Format enabled
+2020-11-18 22:47:38.3905 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:47:38.4645 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:47:38.4899 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:47:38.5339 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:47:40.2650 Info AppDomain Shutting down. Logger closing...
+2020-11-18 22:47:40.2953 Info Logger has been shut down.
+2020-11-18 22:47:55.8549 Info Message Template Auto Format enabled
+2020-11-18 22:47:55.8924 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:47:55.9886 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:47:56.0069 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:47:56.0873 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:48:41.6909 Info Message Template Auto Format enabled
+2020-11-18 22:48:41.7084 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:48:41.7868 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:48:41.8013 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:48:41.8494 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-18 22:50:19.0704 Info Message Template Auto Format enabled
+2020-11-18 22:50:19.0868 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-18 22:50:19.1532 Info Adding target FileTarget(Name=alldata)
+2020-11-18 22:50:19.1677 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-18 22:50:19.2170 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-19 11:53:55.6869 Info Message Template Auto Format enabled
+2020-11-19 11:53:55.7707 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-19 11:53:55.8348 Info Adding target FileTarget(Name=alldata)
+2020-11-19 11:53:55.8509 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-19 11:53:55.9014 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-19 11:55:48.9873 Info Message Template Auto Format enabled
+2020-11-19 11:55:49.0186 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-19 11:55:49.1013 Info Adding target FileTarget(Name=alldata)
+2020-11-19 11:55:49.1192 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-19 11:55:49.1970 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-19 11:57:57.7584 Info Message Template Auto Format enabled
+2020-11-19 11:57:57.7853 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-19 11:57:57.9019 Info Adding target FileTarget(Name=alldata)
+2020-11-19 11:57:57.9268 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-19 11:57:57.9879 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-19 12:02:49.0477 Info Message Template Auto Format enabled
+2020-11-19 12:02:49.0799 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-19 12:02:49.1829 Info Adding target FileTarget(Name=alldata)
+2020-11-19 12:02:49.2290 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-19 12:02:49.3233 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-19 12:04:42.9255 Info Message Template Auto Format enabled
+2020-11-19 12:04:42.9765 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-19 12:04:43.1253 Info Adding target FileTarget(Name=alldata)
+2020-11-19 12:04:43.1994 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-19 12:04:43.2961 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-19 12:05:15.2290 Info Message Template Auto Format enabled
+2020-11-19 12:05:15.2584 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-19 12:05:15.3652 Info Adding target FileTarget(Name=alldata)
+2020-11-19 12:05:15.3857 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-19 12:05:15.4613 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-19 12:07:03.2231 Info Message Template Auto Format enabled
+2020-11-19 12:07:03.2551 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-19 12:07:03.3817 Info Adding target FileTarget(Name=alldata)
+2020-11-19 12:07:03.4329 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-19 12:07:03.4992 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-19 12:08:51.4497 Info Message Template Auto Format enabled
+2020-11-19 12:08:51.4852 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-19 12:08:51.5956 Info Adding target FileTarget(Name=alldata)
+2020-11-19 12:08:51.6158 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-19 12:08:51.6838 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-19 12:11:08.2509 Info Message Template Auto Format enabled
+2020-11-19 12:11:08.2848 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-19 12:11:08.4011 Info Adding target FileTarget(Name=alldata)
+2020-11-19 12:11:08.4242 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-19 12:11:08.5332 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-19 12:14:08.8746 Info Message Template Auto Format enabled
+2020-11-19 12:14:08.9105 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-19 12:14:09.0050 Info Adding target FileTarget(Name=alldata)
+2020-11-19 12:14:09.0272 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-19 12:14:09.0991 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+2020-11-24 13:03:07.4614 Info Message Template Auto Format enabled
+2020-11-24 13:03:07.8540 Info Loading assembly: NLog.Web.AspNetCore
+2020-11-24 13:03:08.1504 Info Adding target FileTarget(Name=alldata)
+2020-11-24 13:03:08.1829 Info Adding target FileTarget(Name=otherFile-web)
+2020-11-24 13:03:08.6453 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-02-05 13:43:07.6965 Info Message Template Auto Format enabled
+2021-02-05 13:43:07.7721 Info Loading assembly: NLog.Web.AspNetCore
+2021-02-05 13:43:08.0060 Info Adding target FileTarget(Name=alldata)
+2021-02-05 13:43:08.1174 Info Adding target FileTarget(Name=otherFile-web)
+2021-02-05 13:43:08.2736 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-02-05 13:44:30.9237 Info Message Template Auto Format enabled
+2021-02-05 13:44:30.9538 Info Loading assembly: NLog.Web.AspNetCore
+2021-02-05 13:44:31.1279 Info Adding target FileTarget(Name=alldata)
+2021-02-05 13:44:31.1599 Info Adding target FileTarget(Name=otherFile-web)
+2021-02-05 13:44:31.2993 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-02-05 13:45:50.8938 Info Message Template Auto Format enabled
+2021-02-05 13:45:50.9531 Info Loading assembly: NLog.Web.AspNetCore
+2021-02-05 13:45:51.1712 Info Adding target FileTarget(Name=alldata)
+2021-02-05 13:45:51.2487 Info Adding target FileTarget(Name=otherFile-web)
+2021-02-05 13:45:51.3278 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-02-05 13:48:28.1775 Info Message Template Auto Format enabled
+2021-02-05 13:48:28.2115 Info Loading assembly: NLog.Web.AspNetCore
+2021-02-05 13:48:28.3228 Info Adding target FileTarget(Name=alldata)
+2021-02-05 13:48:28.3522 Info Adding target FileTarget(Name=otherFile-web)
+2021-02-05 13:48:28.4595 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-02-09 14:34:19.7858 Info Message Template Auto Format enabled
+2021-02-09 14:34:19.9629 Info Loading assembly: NLog.Web.AspNetCore
+2021-02-09 14:34:20.1987 Info Adding target FileTarget(Name=alldata)
+2021-02-09 14:34:20.3893 Info Adding target FileTarget(Name=otherFile-web)
+2021-02-09 14:34:20.5763 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-03-29 16:05:11.2667 Info Message Template Auto Format enabled
+2021-03-29 16:05:11.3694 Info Loading assembly: NLog.Web.AspNetCore
+2021-03-29 16:05:11.5375 Info Adding target FileTarget(Name=alldata)
+2021-03-29 16:05:11.6615 Info Adding target FileTarget(Name=otherFile-web)
+2021-03-29 16:05:11.7704 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-03-30 06:31:07.9588 Info Message Template Auto Format enabled
+2021-03-30 06:31:08.1608 Info Loading assembly: NLog.Web.AspNetCore
+2021-03-30 06:31:08.3285 Info Adding target FileTarget(Name=alldata)
+2021-03-30 06:31:08.4617 Info Adding target FileTarget(Name=otherFile-web)
+2021-03-30 06:31:08.6075 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-03-30 06:42:16.3340 Info Message Template Auto Format enabled
+2021-03-30 06:42:16.3607 Info Loading assembly: NLog.Web.AspNetCore
+2021-03-30 06:42:16.4385 Info Adding target FileTarget(Name=alldata)
+2021-03-30 06:42:16.4490 Info Adding target FileTarget(Name=otherFile-web)
+2021-03-30 06:42:16.5073 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-03-30 06:43:27.7820 Info Message Template Auto Format enabled
+2021-03-30 06:43:27.8301 Info Loading assembly: NLog.Web.AspNetCore
+2021-03-30 06:43:27.9118 Info Adding target FileTarget(Name=alldata)
+2021-03-30 06:43:27.9118 Info Adding target FileTarget(Name=otherFile-web)
+2021-03-30 06:43:28.0323 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-03-30 06:55:04.1414 Info Message Template Auto Format enabled
+2021-03-30 06:55:04.2173 Info Loading assembly: NLog.Web.AspNetCore
+2021-03-30 06:55:04.3610 Info Adding target FileTarget(Name=alldata)
+2021-03-30 06:55:04.4419 Info Adding target FileTarget(Name=otherFile-web)
+2021-03-30 06:55:04.5743 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-03-30 06:59:10.2971 Info Message Template Auto Format enabled
+2021-03-30 06:59:10.3207 Info Loading assembly: NLog.Web.AspNetCore
+2021-03-30 06:59:10.4072 Info Adding target FileTarget(Name=alldata)
+2021-03-30 06:59:10.4185 Info Adding target FileTarget(Name=otherFile-web)
+2021-03-30 06:59:10.4654 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-03-30 07:00:45.3259 Info Message Template Auto Format enabled
+2021-03-30 07:00:45.3617 Info Loading assembly: NLog.Web.AspNetCore
+2021-03-30 07:00:45.4556 Info Adding target FileTarget(Name=alldata)
+2021-03-30 07:00:45.4678 Info Adding target FileTarget(Name=otherFile-web)
+2021-03-30 07:00:45.5252 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-03-30 07:01:51.1035 Info Message Template Auto Format enabled
+2021-03-30 07:01:51.1588 Info Loading assembly: NLog.Web.AspNetCore
+2021-03-30 07:01:51.2948 Info Adding target FileTarget(Name=alldata)
+2021-03-30 07:01:51.3292 Info Adding target FileTarget(Name=otherFile-web)
+2021-03-30 07:01:51.4074 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-03-30 07:03:44.4490 Info Message Template Auto Format enabled
+2021-03-30 07:03:44.4712 Info Loading assembly: NLog.Web.AspNetCore
+2021-03-30 07:03:44.5549 Info Adding target FileTarget(Name=alldata)
+2021-03-30 07:03:44.5735 Info Adding target FileTarget(Name=otherFile-web)
+2021-03-30 07:03:44.6516 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-03-30 07:04:13.8559 Info Message Template Auto Format enabled
+2021-03-30 07:04:13.8845 Info Loading assembly: NLog.Web.AspNetCore
+2021-03-30 07:04:13.9870 Info Adding target FileTarget(Name=alldata)
+2021-03-30 07:04:14.0022 Info Adding target FileTarget(Name=otherFile-web)
+2021-03-30 07:04:14.0619 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-03-30 07:10:09.4194 Info Message Template Auto Format enabled
+2021-03-30 07:10:09.4379 Info Loading assembly: NLog.Web.AspNetCore
+2021-03-30 07:10:09.5370 Info Adding target FileTarget(Name=alldata)
+2021-03-30 07:10:09.5370 Info Adding target FileTarget(Name=otherFile-web)
+2021-03-30 07:10:09.5884 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2021-03-30 07:12:32.3735 Info Message Template Auto Format enabled
+2021-03-30 07:12:32.4162 Info Loading assembly: NLog.Web.AspNetCore
+2021-03-30 07:12:32.5534 Info Adding target FileTarget(Name=alldata)
+2021-03-30 07:12:32.5779 Info Adding target FileTarget(Name=otherFile-web)
+2021-03-30 07:12:32.6511 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2022-02-18 15:07:38.6127 Info Message Template Auto Format enabled
+2022-02-18 15:07:38.8566 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-18 15:07:39.4948 Info Adding target FileTarget(Name=alldata)
+2022-02-18 15:07:39.6951 Info Adding target FileTarget(Name=otherFile-web)
+2022-02-18 15:07:39.9836 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2022-02-18 15:09:34.3498 Info Message Template Auto Format enabled
+2022-02-18 15:09:34.4143 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-18 15:09:34.5610 Info Adding target FileTarget(Name=alldata)
+2022-02-18 15:09:34.6247 Info Adding target FileTarget(Name=otherFile-web)
+2022-02-18 15:09:34.9277 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2022-02-18 15:13:44.0450 Info Message Template Auto Format enabled
+2022-02-18 15:13:44.1208 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-18 15:13:44.2203 Info Adding target FileTarget(Name=alldata)
+2022-02-18 15:13:44.2660 Info Adding target FileTarget(Name=otherFile-web)
+2022-02-18 15:13:44.3525 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2022-02-18 15:22:17.8598 Info Message Template Auto Format enabled
+2022-02-18 15:22:17.9133 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-18 15:22:18.0328 Info Adding target FileTarget(Name=alldata)
+2022-02-18 15:22:18.0572 Info Adding target FileTarget(Name=otherFile-web)
+2022-02-18 15:22:18.1019 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2022-02-18 15:27:10.1613 Info Message Template Auto Format enabled
+2022-02-18 15:27:10.1952 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-18 15:27:10.3364 Info Adding target FileTarget(Name=alldata)
+2022-02-18 15:27:10.3673 Info Adding target FileTarget(Name=otherFile-web)
+2022-02-18 15:27:10.4629 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2022-02-18 15:29:21.3807 Info Message Template Auto Format enabled
+2022-02-18 15:29:21.4123 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-18 15:29:21.5653 Info Adding target FileTarget(Name=alldata)
+2022-02-18 15:29:21.7458 Info Adding target FileTarget(Name=otherFile-web)
+2022-02-18 15:29:21.8279 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2022-04-12 07:05:25.3262 Info Message Template Auto Format enabled
+2022-04-12 07:05:25.3351 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-12 07:05:25.3667 Info Adding target FileTarget(Name=alldata)
+2022-04-12 07:05:25.3739 Info Adding target FileTarget(Name=otherFile-web)
+2022-04-12 07:05:25.3988 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\Liberty ECM\API\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2022-04-12 07:10:48.9768 Info Message Template Auto Format enabled
+2022-04-12 07:10:48.9916 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-12 07:10:49.0315 Info Adding target FileTarget(Name=alldata)
+2022-04-12 07:10:49.0397 Info Adding target FileTarget(Name=otherFile-web)
+2022-04-12 07:10:49.0674 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\0.Development\Liberty ECM\API\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2022-10-17 11:13:43.3990 Info Message Template Auto Format enabled
+2022-10-17 11:13:43.4185 Info Loading assembly: NLog.Web.AspNetCore
+2022-10-17 11:13:43.4676 Info Adding target FileTarget(Name=alldata)
+2022-10-17 11:13:43.4796 Info Adding target FileTarget(Name=otherFile-web)
+2022-10-17 11:13:43.5162 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\API\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2022-10-17 11:14:05.7415 Info AppDomain Shutting down. Logger closing...
+2022-10-17 11:14:05.7582 Info Logger has been shut down.
+2023-01-19 09:13:44.1123 Info Message Template Auto Format enabled
+2023-01-19 09:13:44.1359 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-19 09:13:44.1915 Info Adding target FileTarget(Name=alldata)
+2023-01-19 09:13:44.2096 Info Adding target FileTarget(Name=otherFile-web)
+2023-01-19 09:13:44.2570 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\API\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2023-01-19 09:14:55.0700 Info Message Template Auto Format enabled
+2023-01-19 09:14:55.1043 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-19 09:14:55.2268 Info Adding target FileTarget(Name=alldata)
+2023-01-19 09:14:55.2520 Info Adding target FileTarget(Name=otherFile-web)
+2023-01-19 09:14:55.3375 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\API\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2023-01-19 09:18:30.9214 Info Message Template Auto Format enabled
+2023-01-19 09:18:30.9569 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-19 09:18:31.0755 Info Adding target FileTarget(Name=alldata)
+2023-01-19 09:18:31.0946 Info Adding target FileTarget(Name=otherFile-web)
+2023-01-19 09:18:31.1814 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\API\CIMWebAPI V0.2\CIMWebAPI\bin\Release\netcoreapp3.0\nlog.config
+2023-01-19 09:20:36.6138 Info AppDomain Shutting down. Logger closing...
+2023-01-19 09:20:36.6499 Info Logger has been shut down.

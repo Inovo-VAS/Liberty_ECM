@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>InovoCIM</id>
+    <version>1.0.0</version>
+    <authors>InovoCIM</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="System.Data.SqlClient" version="4.6.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\bin\Debug\netcoreapp2.2\InovoCIM.runtimeconfig.json" target="lib\netcoreapp2.2\InovoCIM.runtimeconfig.json" />
+    <file src="C:\0.Development\Liberty ECM\Files\CIM Engine v2.0\InovoCIM\bin\Debug\netcoreapp2.2\InovoCIM.dll" target="lib\netcoreapp2.2\InovoCIM.dll" />
+  </files>
+</package>

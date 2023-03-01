@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\0.Development\4.CIM Web API\CIM Web API V1.3 DEV Install</_PublishTargetUrl>
+    <History>True|2022-06-27T18:51:26.8245912Z;True|2022-06-27T20:48:32.8401151+02:00;True|2022-04-12T08:27:35.5956065+02:00;True|2022-04-12T07:13:18.3378779+02:00;True|2022-04-08T12:41:41.3325859+02:00;True|2022-04-06T12:48:32.1618771+02:00;True|2022-03-07T19:23:18.4181785+02:00;True|2022-02-18T15:33:07.6535767+02:00;True|2022-02-16T07:57:44.1562402+02:00;True|2021-10-04T13:39:39.7962428+02:00;True|2021-10-04T13:30:38.4973197+02:00;False|2021-10-04T13:28:30.8217468+02:00;False|2021-10-04T13:27:54.3988840+02:00;True|2021-03-30T07:13:57.6035813+02:00;</History>
+  </PropertyGroup>
+</Project>

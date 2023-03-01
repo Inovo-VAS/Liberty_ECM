@@ -1,0 +1,30 @@
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\Email Parsing.exe
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\Email Parsing.deps.json
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\Email Parsing.runtimeconfig.json
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\Email Parsing.runtimeconfig.dev.json
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\Email Parsing.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\Email Parsing.pdb
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\Dapper.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\HtmlAgilityPack.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\MailKit.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\MimeKit.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\obj\Debug\net5.0\Email Parsing.csproj.AssemblyReference.cache
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\obj\Debug\net5.0\Email Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\obj\Debug\net5.0\Email Parsing.AssemblyInfoInputs.cache
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\obj\Debug\net5.0\Email Parsing.AssemblyInfo.cs
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\obj\Debug\net5.0\Email Parsing.csproj.CoreCompileInputs.cache
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\obj\Debug\net5.0\Email Parsing.csproj.CopyComplete
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\obj\Debug\net5.0\Email Parsing.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\obj\Debug\net5.0\refint\Email Parsing.dll
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\obj\Debug\net5.0\Email Parsing.pdb
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\obj\Debug\net5.0\Email Parsing.genruntimeconfig.cache
+C:\0.Development\Liberty ECM\Mailbox App\Email Parsing\Email Parsing\obj\Debug\net5.0\ref\Email Parsing.dll

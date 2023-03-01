@@ -1,0 +1,110 @@
+2023-01-19 09:13:44.3090||DEBUG|CIMWebAPI.Program|init main function 
+2023-01-19 09:13:45.6182||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2023-01-19 09:13:45.6182||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2023-01-19 09:13:45.6182||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-01-19 09:13:45.6182||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-01-19 09:13:45.6391||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\API\CIMWebAPI V0.2\CIMWebAPI 
+2023-01-19 09:13:46.8844|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:5001/   
+2023-01-19 09:13:46.9137||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.9
+Cookie:__utma=111872281.1628117965.1645777738.1645783375.1645788338.3
+Host:localhost:5001
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Upgrade-Insecure-Requests:1
+:method:GET
+:authority:localhost:5001
+:scheme:https
+:path:/
+sec-ch-ua:"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+sec-ch-ua-mobile:?0
+sec-ch-ua-platform:"Windows"
+sec-fetch-site:none
+sec-fetch-mode:navigate
+sec-fetch-user:?1
+sec-fetch-dest:document
+Request body:
+ 
+2023-01-19 09:13:46.9612|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 77.5313ms 404  
+2023-01-19 09:15:00.1300||DEBUG|CIMWebAPI.Program|init main function 
+2023-01-19 09:15:04.6594||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2023-01-19 09:15:04.6823||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2023-01-19 09:15:04.7008||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-01-19 09:15:04.7124||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-01-19 09:15:04.7124||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\API\CIMWebAPI V0.2\CIMWebAPI 
+2023-01-19 09:15:05.7467|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:5001/   
+2023-01-19 09:15:05.7829||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.9
+Cookie:__utma=111872281.1628117965.1645777738.1645783375.1645788338.3
+Host:localhost:5001
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Upgrade-Insecure-Requests:1
+:method:GET
+:authority:localhost:5001
+:scheme:https
+:path:/
+sec-ch-ua:"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+sec-ch-ua-mobile:?0
+sec-ch-ua-platform:"Windows"
+sec-fetch-site:none
+sec-fetch-mode:navigate
+sec-fetch-user:?1
+sec-fetch-dest:document
+Request body:
+ 
+2023-01-19 09:15:05.8320|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 85.9488ms 404  
+2023-01-19 09:18:31.2736||DEBUG|CIMWebAPI.Program|init main function 
+2023-01-19 09:20:08.9111||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2023-01-19 09:20:08.9305||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2023-01-19 09:20:09.0549||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-01-19 09:20:09.0549||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-01-19 09:20:09.0776||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\projects\inovo\WaldoCode\Waldo Code\0.Development\Liberty ECM\API\CIMWebAPI V0.2\CIMWebAPI 
+2023-01-19 09:20:09.8655|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:5001/   
+2023-01-19 09:20:09.8998||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.9
+Cookie:__utma=111872281.1628117965.1645777738.1645783375.1645788338.3
+Host:localhost:5001
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Upgrade-Insecure-Requests:1
+:method:GET
+:authority:localhost:5001
+:scheme:https
+:path:/
+sec-ch-ua:"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+sec-ch-ua-mobile:?0
+sec-ch-ua-platform:"Windows"
+sec-fetch-site:none
+sec-fetch-mode:navigate
+sec-fetch-user:?1
+sec-fetch-dest:document
+Request body:
+ 
+2023-01-19 09:20:09.9567|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 91.3165ms 404  
+2023-01-19 09:20:30.6814|1|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:5001/   
+2023-01-19 09:20:30.6814||INFO|CIMWebAPI.RequestLoggingMiddleware|
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding:gzip, deflate, br
+Accept-Language:en-US,en;q=0.9
+Cookie:__utma=111872281.1628117965.1645777738.1645783375.1645788338.3
+Host:localhost:5001
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Upgrade-Insecure-Requests:1
+:method:GET
+:authority:localhost:5001
+:scheme:https
+:path:/
+sec-fetch-site:none
+sec-fetch-mode:navigate
+sec-fetch-user:?1
+sec-fetch-dest:document
+sec-ch-ua:"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"
+sec-ch-ua-mobile:?0
+sec-ch-ua-platform:"Windows"
+Request body:
+ 
+2023-01-19 09:20:30.7266|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 45.3415ms 404  

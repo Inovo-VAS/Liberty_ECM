@@ -1,0 +1,13 @@
+C:\0.Development\6. ECM CIM\ECM CIM V5 PROD\Content\logo.png
+C:\0.Development\6. ECM CIM\ECM CIM V5 PROD\EmailTemplates\Error.html
+C:\0.Development\6. ECM CIM\ECM CIM V5 PROD\EmailTemplates\ReportFile.html
+C:\0.Development\6. ECM CIM\ECM CIM V5 PROD\EmailTemplates\ReportHeaderFailed.html
+C:\0.Development\6. ECM CIM\ECM CIM V5 PROD\InovoCIM.exe
+C:\0.Development\6. ECM CIM\ECM CIM V5 PROD\InovoCIM.dll
+C:\0.Development\6. ECM CIM\ECM CIM V5 PROD\InovoCIM.deps.json
+C:\0.Development\6. ECM CIM\ECM CIM V5 PROD\InovoCIM.runtimeconfig.json
+C:\0.Development\6. ECM CIM\ECM CIM V5 PROD\InovoCIM.pdb
+C:\0.Development\6. ECM CIM\ECM CIM V5 PROD\System.Data.SqlClient.dll
+C:\0.Development\6. ECM CIM\ECM CIM V5 PROD\System.Runtime.CompilerServices.Unsafe.dll
+C:\0.Development\6. ECM CIM\ECM CIM V5 PROD\System.Text.Encoding.CodePages.dll
+C:\0.Development\6. ECM CIM\ECM CIM V5 PROD\sni.dll

@@ -1,0 +1,346 @@
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.exe
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.deps.json
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.runtimeconfig.json
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.runtimeconfig.dev.json
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.pdb
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\obj\Debug\netcoreapp3.0\staticwebassets\CIMWebAPI.StaticWebAssets.Manifest.cache
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\obj\Debug\netcoreapp3.0\staticwebassets\CIMWebAPI.StaticWebAssets.xml
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.AssemblyInfoInputs.cache
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.AssemblyInfo.cs
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.RazorTargetAssemblyInfo.cache
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.pdb
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.csproj.CopyComplete
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\02.Inovo\0.InovoCIM V4\CIM Web API\CIMWebAPI V0.1\CIMWebAPI\bin\Debug\netcoreapp3.0\InovoCIM.json
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\libman.json
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.exe
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\InovoCIM.json
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.deps.json
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.runtimeconfig.json
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.runtimeconfig.dev.json
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.pdb
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\NLog.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\NLog.Extensions.Logging.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\NLog.Web.AspNetCore.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.csprojAssemblyReference.cache
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.AssemblyInfoInputs.cache
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.AssemblyInfo.cs
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.csproj.CopyComplete
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\staticwebassets\CIMWebAPI.StaticWebAssets.Manifest.cache
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\staticwebassets\CIMWebAPI.StaticWebAssets.xml
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.dll
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.pdb
+C:\Users\wvandenberg\Desktop\Liberty CIM\CIMWebAPI V0.2\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.genruntimeconfig.cache
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\nlog.config
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\libman.json
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.exe
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\InovoCIM.json
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.deps.json
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.runtimeconfig.json
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.runtimeconfig.dev.json
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\CIMWebAPI.pdb
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\NLog.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\NLog.Extensions.Logging.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\NLog.Web.AspNetCore.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.csprojAssemblyReference.cache
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.AssemblyInfoInputs.cache
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.AssemblyInfo.cs
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.csproj.CoreCompileInputs.cache
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\staticwebassets\CIMWebAPI.StaticWebAssets.Manifest.cache
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\staticwebassets\CIMWebAPI.StaticWebAssets.xml
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\scopedcss\bundle\CIMWebAPI.styles.css
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.RazorTargetAssemblyInfo.cache
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.csproj.CopyComplete
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.dll
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.pdb
+C:\0.Development\CIMWebAPI V0.2\CIMWebAPI\obj\Debug\netcoreapp3.0\CIMWebAPI.genruntimeconfig.cache

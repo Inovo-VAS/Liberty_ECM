@@ -1,0 +1,30 @@
+{
+  "Database": {
+    "dbInovoCIM": "Data Source=PSQLPresnce1a\\INST02;Initial Catalog=CIM;User Id=cim_user;Password=Gr!@#$tj!@#$2019;MultipleActiveResultSets=true;",
+    "dbPresence": "Data Source=10.122.156.194\\PRESENCE;Initial Catalog=SQLPR1;User Id=PTOOLS;Password=PTOOLS;MultipleActiveResultSets=true;"
+  },
+  "Database-Test-BackUp": {
+    "dbInovoCIM": "Data Source=.\\SQLEXPRESS;Initial Catalog=LibertyCim;Integrated Security=SSPI;",
+    "dbPresence": "Data Source=.\\SQLEXPRESS;Initial Catalog=SQLPR1;Integrated Security=SSPI;"
+  },
+  "Database-Local-BackUp": {
+    "dbInovoCIM": "Data Source=10.122.143.224;Initial Catalog=CIM;User Id=cim_user;Password=Gr!@#$tj!@#$2019;MultipleActiveResultSets=true;",
+    "dbPresence": " "
+  },
+  "API-Key": {
+    "Key": "3afc8070-7975-4208-90cd-fab8c3611f37"
+  },
+  "Presence-Server-URI": {
+    "URI": "https://10.122.156.194/administratorrest"
+  },
+  "Email": {
+    "Display": "",
+    "From": "",
+    "Server": "",
+    "Port": "25",
+    "SSL": "1",
+    "Username": "",
+    "Password": "",
+    "Logo": ""
+  }
+}
